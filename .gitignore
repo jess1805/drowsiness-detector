@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Haarcascade XML files (whole folder)
+haarcascade_files/
+
+# Big trained models
+models/
+
+# Audio files (optional)
+*.wav
